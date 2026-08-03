@@ -9,50 +9,11 @@
 
 Passionate about cybersecurity, network infrastructure, ethical hacking, and security automation. I enjoy building secure systems, analyzing threats, and developing tools that help organizations strengthen their security posture.
 
-### 🚀 About Me
-
-* 🔐 Cybersecurity & Network Security Enthusiast
-* 🌐 Experienced in Networking and Infrastructure Management
-* 🐍 Python Developer & Security Automation Builder
-* 🐧 Linux Power User
-* 🎯 Interested in Penetration Testing & Red Teaming
-* 📚 Continuously learning new technologies and security techniques
-
-### 🛠️ Tech Stack
-
-```text
-💻 Languages
-Python • C • Bash • SQL • JavaScript
-
-🔐 Security
-Nmap • Wireshark • Burp Suite • Metasploit • OSINT
-
-🌐 Networking
-TCP/IP • Routing • Switching • DNS • VPN • Firewalls
-
-🖥️ Systems
-Linux • Windows Server • Git • Docker
-```
-
-### 🎯 Current Focus
-
-* Threat Hunting
-* Malware Analysis
-* Security Automation
-* Cloud Security
-* Ethical Hacking
 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=ishansandesh&theme=tokyonight&hide_border=true)
 
-
-### 🏆 Goals for 2026
-
-* Build Advanced Cybersecurity Tools
-* Contribute to Open Source Security Projects
-* Earn Industry Security Certifications
-* Share Knowledge Through GitHub Projects
 
 ### 📫 Connect With Me
 
