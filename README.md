@@ -1,38 +1,50 @@
-# 👨‍💻 Hi, I'm IshanSandesh
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<h1 align="center">
+Hi, I'm <a href="https://github.com/ishansandesh"> IshanSandesh </a>
+ <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a>
+</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
+
+
+
+
+
+
+ <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> <i><small>About me</small></i>
+
 ![](https://komarev.com/ghpvc/?username=ishansandesh&style=for-the-badge)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishansandesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-sandesh-237404185/)
+```text
+┌──[ ishan@sway ]─[ ~/about ]
+└─$ cat about_me.txt
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFiaHNyeWpybHV5dDBqanFlODFkc25jbDlueW1yb2c5NmtzcWVlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
+  ╭─[ ABOUT ME ]
+  │
+  ├─ Name        : Ishan Sandesh
+  ├─ Role        : Cybersecurity Engineer/Network Engineer
+  ├─ Focus       : Cybersecurity • Networking • Linux
+  ├─ Learning    : C • Python • Networking • Cybersecurity
+  ├─ Interests   : Open Source • Linux Customization • Hacking
+  │
+  ├─ Current     : Building • Learning • Experimenting
+  └─ Status      : [ ONLINE ]
 
-## 🛡️ Cybersecurity Engineer | 🌐 Network Engineer
-
-Passionate about cybersecurity, network infrastructure, ethical hacking, and security automation. I enjoy building secure systems, analyzing threats, and developing tools that help organizations strengthen their security posture.
-
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://streak-stats.demolab.com?user=ishansandesh&theme=tokyonight&hide_border=true)
-
-
-### 📫 Connect With Me
-
-* GitHub: https://github.com/ishansandesh
-* LinkedIn: https://www.linkedin.com/in/ishan-sandesh-237404185/
+  └─$ ./keep_learning.sh
+       └── [████████████████████] 100%
+```
 
 
----
-
-> "Security is a journey, not a destination."
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 
 <hr color="navyblue">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-       alt="GitHub Contribution Snake" />
-</p>
-<hr color="navyblue">
-<p align="center">
-   <img align='center' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnUyNHEwdGtnZXl6eWNud2Nua3E1cjhxaXZyc2x2MHVmMTJwMWw5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6aeJGhKJb2yreRwdl/giphy.gif" width="25%" alt="giphy">
+   <img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTIzZjNzeXdlNGxoYWZldno3cmF4dnEyNGd6dWVobWJwcHlleWg2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11BbGyhVmk4iLS/giphy.gif" width="30%" alt="giphy">
    <br>
    <i>Dont Waste Time get back to work.</i>
    <br>
